@@ -5,5 +5,5 @@ dependencies
 
 - git
 - nodejs
--npm
--yarn (to compile coc - auto completion
+- npm
+- yarn (to compile coc - auto completion
